@@ -28,6 +28,8 @@ Key Features
 • 	: Three-node hidden layer
 • 	: Two hidden layers
 # Visual Outputs
+![phase_diagram_evolution](figures/phase_diagram_evolution.gif)
+
 
 ## Requirements
 • 	Python 3.7+
