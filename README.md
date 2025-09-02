@@ -1,3 +1,5 @@
+
+![energy comparison](figures/energy_decay_Two_Hidden_Layers_(2-2-2-1).png)
 # Abstract
 NeuroLab: Physics‑Inspired Neural Dynamics Simulator
 This project reimagines neural network training as a physical system evolving toward equilibrium. Built entirely from scratch in Python/NumPy, the framework treats the loss function as a potential energy surface, gradient descent as energy minimisation, and momentum as inertial mass. Each architecture becomes a dynamical configuration, where activation functions emulate nonlinear response behaviors and training trajectories resemble relaxation processes in classical mechanics.
