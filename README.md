@@ -30,6 +30,7 @@ Key Features
 # Visual Outputs
 ![phase_diagram_evolution](figures/phase_diagram_evolution.gif)
 
+![energy_comparison](figures/energy_comparison.png)
 
 ## Requirements
 • 	Python 3.7+
